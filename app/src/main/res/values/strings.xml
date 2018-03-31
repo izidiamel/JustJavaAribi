@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="whats_your_name">what\'s your name</string>
+    <string name="RESET">RESET</string>
+    <string name="Order_Summary">Order Summary</string>
+    <string name="order">order</string>
+    <string name="choclate">choclate</string>
+    <string name="no_name_untered">no name untered</string>
+    <string name="too_Much_quantity">Too Much quantity</string>
+    <string name="quantity">quantity :</string>
+    <string name="Total">Total  \:</string>
+    <string name="DA">DA</string>
+    <string name="Thank">Thank you \!<xliff:g id="text" example="Amy">%s </xliff:g></string>
+    <string name="wipped_Cream">whipped cream</string>
+    <string name="wipped_Cream_2">whipped cream  ?<xliff:g id="state1" example="Yes">%s </xliff:g></string>
+    <string name="choclate_2">choclate  ?<xliff:g id="state2" example="yes">%s </xliff:g></string>
+</resources>

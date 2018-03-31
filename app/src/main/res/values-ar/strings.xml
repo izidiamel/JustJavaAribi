@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">متجر قهوة</string>
+    <string name="whats_your_name">"ما هو اسمك؟ "</string>
+    <string name="RESET">من الصفر</string>
+    <string name="Order_Summary">ملخص الطلب</string>
+    <string name="order">الطلب</string>
+    <string name="wipped_Cream">قشدة مخفوقة</string>
+    <string name="choclate">شكلاطة</string>
+    <string name="no_name_untered">لا اسم مدخل</string>
+    <string name="too_Much_quantity">كمية كبيرة</string>
+    <string name="quantity">كمية كبيرة:</string>
+    <string name="Total">المجموع:</string>
+    <string name="DA">دج</string>
+    <string name="Thank"> شكرا لك<xliff:g id="text" example="Amy">%s </xliff:g></string>
+    <string name="wipped_Cream_2">"قشدة مخفوقة ؟ "<xliff:g id="state1" example="نعم">%s </xliff:g></string>
+    <string name="choclate_2">"شكلاطة  ؟"<xliff:g id="state2" example="نعم">%s </xliff:g></string>
+
+</resources>
